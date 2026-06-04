@@ -6,9 +6,6 @@ A responsive landing page inspired by a modern agency website, built with React 
 
 - React.js
 - Tailwind CSS
-- Framer Motion
-- Vite
-- Lucide React
 
 ## Animations
 
